@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Great Vibes', cursive;
+    background:url("https://static.vecteezy.com/system/resources/previews/000/243/926/non_2x/abstract-colorful-shiny-glitters-background-vector.jpg");
+}
+img {
+    width: 500px;
+    height: 400px;
+}
+.lay {
+    height: 500px;
+}
+.purple {
+    color: yellow;
+    font-size: 50px;
+}
+.green {
+    color:  orange; 
+    font-size: 50px;
+}
+.blue {
+    color: white;
+    font-size: 50px;
+}
+.pink {
+    color: pink;
+    font-size: 50px;
+}
+.title {
+    color: red;
+    font-size: 110px;
+}
+.big {
+    font-size: 75px;
+    color: #bbc63b;
+}
